@@ -1,0 +1,15 @@
+C:\Users\zzz\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\zzz\source\repos\project\project\bin\Debug\project.exe
+C:\Users\zzz\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\zzz\source\repos\project\project\obj\Debug\project.FirstForm.resources
+C:\Users\zzz\source\repos\project\project\obj\Debug\project.MainWindow.resources
+C:\Users\zzz\source\repos\project\project\obj\Debug\project.MainWindow0.resources
+C:\Users\zzz\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\zzz\source\repos\project\project\obj\Debug\project.show.resources
+C:\Users\zzz\source\repos\project\project\obj\Debug\project.ShowContorler.resources
+C:\Users\zzz\source\repos\project\project\obj\Debug\project.study.resources
+C:\Users\zzz\source\repos\project\project\obj\Debug\project.StudyControler.resources
+C:\Users\zzz\source\repos\project\project\obj\Debug\project.UserControler.resources
+C:\Users\zzz\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\zzz\source\repos\project\project\obj\Debug\project.exe
+C:\Users\zzz\source\repos\project\project\obj\Debug\project.pdb
